@@ -1,0 +1,13 @@
+[package]
+name = "sharkcoal"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+log4rs = "1.2.0"
+tokio = "1.21.1"
+tokio-rustls = "0.23.4"
+rustls = "0.20.7"
+sentry = "0.29.1"
+serde = "1.0.152"
+uuid = "1.2.2"
